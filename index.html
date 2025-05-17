@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>タロット占いアプリ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #1a1a1a;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 18px;
+      background-color: #444;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      margin: 10px;
+    }
+    button:hover {
+      background-color: #666;
+    }
+    img.card {
+      width: 160px;
+      margin: 10px;
+      transition: transform 0.3s;
+    }
+    .spread {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 20px;
+    }
+    .card-info {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>タロット占い</h1>
+    <p>スプレッドを選んでカードを引いてください</p>
+    <div>
+      <button onclick="drawSpread(1)">1枚引き</button>
+      <button onclick="drawSpread(3)">3枚スプレッド</button>
+      <button onclick="drawSpread(7)">7枚スプレッド</button>
+    </div>
+    <div id="spread" class="spread"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
