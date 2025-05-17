@@ -1,0 +1,391 @@
+[
+  {
+    "name": "愚者",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg",
+    "upright": "自由、冒険、可能性の始まり",
+    "reversed": "無計画、愚かさ、現実逃避"
+  },
+  {
+    "name": "魔術師",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg",
+    "upright": "創造力、意志の力、始まり",
+    "reversed": "欺瞞、操作、未熟"
+  },
+  {
+    "name": "女教皇",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg",
+    "upright": "直感、内なる知恵、秘密",
+    "reversed": "混乱、隠し事、表面的な理解"
+  },
+  {
+    "name": "女帝",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg",
+    "upright": "豊かさ、母性、創造性",
+    "reversed": "依存、怠惰、創造の停滞"
+  },
+  {
+    "name": "皇帝",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg",
+    "upright": "支配、安定、父性",
+    "reversed": "独裁、固執、冷酷"
+  },
+  {
+    "name": "教皇",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_05_Hierophant.jpg",
+    "upright": "伝統、学び、信仰",
+    "reversed": "盲信、形式主義、反抗"
+  },
+  {
+    "name": "恋人",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/TheLovers.jpg",
+    "upright": "愛、選択、調和",
+    "reversed": "不和、優柔不断、誘惑"
+  },
+  {
+    "name": "戦車",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_07_Chariot.jpg",
+    "upright": "勝利、意志の力、前進",
+    "reversed": "暴走、敗北、方向性の欠如"
+  },
+  {
+    "name": "力",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg",
+    "upright": "内なる強さ、忍耐、優しさ",
+    "reversed": "弱さ、自己不信、過剰な力"
+  },
+  {
+    "name": "隠者",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_09_Hermit.jpg",
+    "upright": "内省、探求、静寂",
+    "reversed": "孤立、頑固、迷い"
+  },
+  {
+    "name": "運命の輪",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "upright": "運命の転換、チャンス、変化",
+    "reversed": "不運、抵抗、タイミングの悪さ"
+  },
+  {
+    "name": "正義",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RWS_Tarot_11_Justice.jpg",
+    "upright": "公平、因果応報、バランス",
+    "reversed": "偏見、不公平、責任逃れ"
+  },
+  {
+    "name": "吊るされた男",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg",
+    "upright": "自己犠牲、洞察、逆転の視点",
+    "reversed": "停滞、無駄な犠牲、頑固"
+  },
+  {
+    "name": "死神",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg",
+    "upright": "終わり、新たな始まり、変容",
+    "reversed": "拒絶、停滞、変化の恐れ"
+  },
+  {
+    "name": "節制",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg",
+    "upright": "調和、節度、バランス",
+    "reversed": "極端、焦り、不調和"
+  },
+  {
+    "name": "悪魔",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_Devil.jpg",
+    "upright": "束縛、依存、誘惑",
+    "reversed": "解放、回復、自立"
+  },
+  {
+    "name": "塔",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg",
+    "upright": "崩壊、衝撃、急変",
+    "reversed": "回避、警告、耐える力"
+  },
+  {
+    "name": "星",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg",
+    "upright": "希望、癒し、インスピレーション",
+    "reversed": "失望、現実逃避、不安"
+  },
+  {
+    "name": "月",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg",
+    "upright": "直感、不安、幻想",
+    "reversed": "混乱の終わり、真実の発見"
+  },
+  {
+    "name": "太陽",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg",
+    "upright": "喜び、成功、活力",
+    "reversed": "過信、不安定、誤った幸福感"
+  },
+  {
+    "name": "審判",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg",
+    "upright": "目覚め、再生、決断",
+    "reversed": "後悔、拒絶、停滞"
+  },
+  {
+    "name": "世界",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg",
+    "upright": "完成、達成、統合",
+    "reversed": "未完、停滞、中途半端"
+  },
+{
+    "name": "カップのエース",
+    "image": "",
+    "upright": "愛の始まり、感情の高まり、創造性",
+    "reversed": "感情の抑制、失望、不安定"
+  },
+  {
+    "name": "カップの2",
+    "image": "",
+    "upright": "パートナーシップ、調和、信頼関係",
+    "reversed": "不一致、別れ、不和"
+  },
+  {
+    "name": "カップの3",
+    "image": "",
+    "upright": "友情、祝福、喜び",
+    "reversed": "過度な依存、浮ついた関係、嫉妬"
+  },
+  {
+    "name": "カップの4",
+    "image": "",
+    "upright": "倦怠感、満たされない感情、無気力",
+    "reversed": "新たな視点、チャンスの到来"
+  },
+  {
+    "name": "カップの5",
+    "image": "",
+    "upright": "喪失、後悔、悲しみ",
+    "reversed": "立ち直り、前向きな変化"
+  },
+  {
+    "name": "カップの6",
+    "image": "",
+    "upright": "思い出、郷愁、純粋な愛情",
+    "reversed": "過去への執着、未練"
+  },
+  {
+    "name": "カップの7",
+    "image": "",
+    "upright": "幻想、選択肢、誘惑",
+    "reversed": "現実への目覚め、決断"
+  },
+  {
+    "name": "カップの8",
+    "image": "",
+    "upright": "放棄、新たな道、精神的成長",
+    "reversed": "逃避、迷い、未練"
+  },
+  {
+    "name": "カップの9",
+    "image": "",
+    "upright": "願望成就、満足、幸福",
+    "reversed": "過剰、空虚な満足"
+  },
+  {
+    "name": "カップの10",
+    "image": "",
+    "upright": "家族の幸せ、感情的な充足、平和",
+    "reversed": "不和、不安定、表面上の幸福"
+  },
+  {
+    "name": "カップのペイジ",
+    "image": "",
+    "upright": "感受性、直感、純粋な心",
+    "reversed": "未熟、過敏、空想"
+  },
+  {
+    "name": "カップのナイト",
+    "image": "",
+    "upright": "愛の告白、夢想家、ロマンス",
+    "reversed": "移り気、不誠実、感情の波"
+  },
+  {
+    "name": "カップのクイーン",
+    "image": "",
+    "upright": "慈愛、理解、感情の安定",
+    "reversed": "依存、情緒不安定"
+  },
+  {
+    "name": "カップのキング",
+    "image": "",
+    "upright": "感情の支配、包容力、落ち着き",
+    "reversed": "感情的支配、抑圧、混乱"
+  },
+(件名なし)
+crystal-parleaf@docomo.ne.jp
+​
+自分
+​
+{
+    "name": "ワンドのエース",
+    "image": "",
+    "upright": "情熱の始まり、創造性、エネルギー",
+    "reversed": "中断、遅れ、やる気の欠如"
+  },
+  {
+    "name": "ワンドの2",
+    "image": "",
+    "upright": "計画、展望、決断",
+    "reversed": "不安、決断の遅れ、方向性の喪失"
+  },
+  {
+    "name": "ワンドの3",
+    "image": "",
+    "upright": "発展、視野の拡大、成功の兆し",
+    "reversed": "挫折、展望の欠如、過信"
+  },
+  {
+    "name": "ワンドの4",
+    "image": "",
+    "upright": "安定、祝福、調和",
+    "reversed": "家庭内の不和、不安定"
+  },
+  {
+    "name": "ワンドの5",
+    "image": "",
+    "upright": "競争、意見の衝突、挑戦",
+    "reversed": "回避、無意味な争い、内輪揉め"
+  },
+  {
+    "name": "ワンドの6",
+    "image": "",
+    "upright": "勝利、認められる、成功",
+    "reversed": "過信、誤解、期待外れ"
+  },
+  {
+    "name": "ワンドの7",
+    "image": "",
+    "upright": "防衛、優位な立場、挑戦への対応",
+    "reversed": "劣勢、混乱、防御の失敗"
+  },
+  {
+    "name": "ワンドの8",
+    "image": "",
+    "upright": "急展開、迅速な変化、前進",
+    "reversed": "遅延、行き詰まり、混乱"
+  },
+  {
+    "name": "ワンドの9",
+    "image": "",
+    "upright": "忍耐、防衛、最終局面",
+    "reversed": "疲労、不信、あきらめ"
+  },
+  {
+    "name": "ワンドの10",
+    "image": "",
+    "upright": "重荷、責任、努力",
+    "reversed": "負担過多、助けを求める必要"
+  },
+  {
+    "name": "ワンドのペイジ",
+    "image": "",
+    "upright": "冒険心、創造的なアイデア、熱意",
+    "reversed": "衝動的、空回り、方向性の迷い"
+  },
+  {
+    "name": "ワンドのナイト",
+    "image": "",
+    "upright": "行動力、情熱、挑戦",
+    "reversed": "短気、衝動的、無計画"
+  },
+  {
+    "name": "ワンドのクイーン",
+    "image": "",
+    "upright": "自信、魅力、独立性",
+    "reversed": "嫉妬、不安定、自己中心"
+  },
+  {
+    "name": "ワンドのキング",
+    "image": "",
+    "upright": "リーダーシップ、信念、情熱",
+    "reversed": "支配的、短気、傲慢"
+  },
+{
+    "name": "ペンタクルのエース",
+    "image": "",
+    "upright": "物質的な始まり、繁栄、安定",
+    "reversed": "機会損失、不安定、浪費"
+  },
+  {
+    "name": "ペンタクルの2",
+    "image": "",
+    "upright": "バランス、柔軟性、選択",
+    "reversed": "優柔不断、混乱、過剰な負担"
+  },
+  {
+    "name": "ペンタクルの3",
+    "image": "",
+    "upright": "協力、スキル、達成",
+    "reversed": "協力の欠如、不和、努力の空回り"
+  },
+  {
+    "name": "ペンタクルの4",
+    "image": "",
+    "upright": "保守的、貯蓄、安定を求める",
+    "reversed": "執着、孤立、損失"
+  },
+  {
+    "name": "ペンタクルの5",
+    "image": "",
+    "upright": "困難、貧困、助けを求める",
+    "reversed": "回復の兆し、援助、希望"
+  },
+  {
+    "name": "ペンタクルの6",
+    "image": "",
+    "upright": "分配、支援、バランスの取れた与え合い",
+    "reversed": "不平等、依存、自己中心"
+  },
+  {
+    "name": "ペンタクルの7",
+    "image": "",
+    "upright": "評価、成果を待つ、忍耐",
+    "reversed": "焦り、成果不足、計画変更"
+  },
+  {
+    "name": "ペンタクルの8",
+    "image": "",
+    "upright": "勤勉、技術の習得、努力の積み重ね",
+    "reversed": "惰性、集中力の欠如、質の低下"
+  },
+  {
+    "name": "ペンタクルの9",
+    "image": "",
+    "upright": "豊かさ、自立、満足",
+    "reversed": "虚栄心、依存、孤独"
+  },
+  {
+    "name": "ペンタクルの10",
+    "image": "",
+    "upright": "財産、家族の安定、長期的成功",
+    "reversed": "財産の損失、家族の不和"
+  },
+  {
+    "name": "ペンタクルのペイジ",
+    "image": "",
+    "upright": "学習、可能性、計画",
+    "reversed": "怠惰、不注意、集中力の欠如"
+  },
+  {
+    "name": "ペンタクルのナイト",
+    "image": "",
+    "upright": "勤勉、現実主義、粘り強さ",
+    "reversed": "頑固、遅延、融通がきかない"
+  },
+  {
+    "name": "ペンタクルのクイーン",
+    "image": "",
+    "upright": "思いやり、安定、現実的",
+    "reversed": "不安定、過保護、過干渉"
+  },
+  {
+    "name": "ペンタクルのキング",
+    "image": "",
+    "upright": "成功、豊かさ、信頼性",
+    "reversed": "頑固、自己中心、物質主義"
+  }
+]
