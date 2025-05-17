@@ -1,0 +1,43 @@
+let cards = [];
+
+fetch('cards.json')
+  .then(response => response.json())
+  .then(data => {
+    cards = data;
+  })
+  .catch(error => {
+    console.error('カードデータの読み込みに失敗しました:', error);
+  });
+
+function drawSpread(count) {
+  if (cards.length < count) {
+    alert("カードデータが不足しています");
+    return;
+  }
+
+  const spreadContainer = document.getElementById('spread');
+  spreadContainer.innerHTML = '';
+
+  const drawnCards = [];
+  while (drawnCards.length < count) {
+    const i = Math.floor(Math.random() * cards.length);
+    const card = cards[i];
+    if (!drawnCards.includes(card)) drawnCards.push(card);
+  }
+
+  drawnCards.forEach(card => {
+    const isUpright = Math.random() < 0.5;
+    const orientation = isUpright ? "正位置" : "逆位置";
+    const meaning = isUpright ? card.upright : card.reversed;
+
+    const cardDiv = document.createElement('div');
+    cardDiv.innerHTML = `
+      <img class="card" src="${card.image || ''}" alt="${card.name}" style="transform: rotate(${isUpright ? 0 : 180}deg)">
+      <div class="card-info">
+        <strong>${card.name}（${orientation}）</strong><br />
+        <span>${meaning}</span>
+      </div>
+    `;
+    spreadContainer.appendChild(cardDiv);
+  });
+}
